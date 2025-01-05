@@ -37,7 +37,7 @@ This project demonstrates a Federated Learning (FL) framework with the presence 
 
 1. Run the script:
    ```bash
-   python FL_with_poisoning.py
+   python FL-ModelPoisoning.py
    ```
 
 2. Customize parameters:
