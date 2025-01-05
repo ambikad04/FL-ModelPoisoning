@@ -1,6 +1,6 @@
 # Federated Learning with Model Poisoning
 
-This project demonstrates a Federated Learning (FL) framework with the presence of a malicious client performing model poisoning. The simulation highlights the impact of poisoned updates on the global model's performance.
+This project shows how Federated Learning (FL) works when there is a malicious client that tries to disrupt the system by sending poisoned updates. It demonstrates how the global model is affected and its performance after training.
 
 ---
 
@@ -70,7 +70,7 @@ This project demonstrates a Federated Learning (FL) framework with the presence 
 
 ## Example Output
 
-When executed, the script logs the presence of a malicious client and completes the FL process. It also evaluates the global model's performance:
+When you run the script, it shows logs like this:
 
 ```
 Client 1 is malicious in epoch 1.
@@ -86,7 +86,7 @@ Test Accuracy: 65.00%
 
 ## Results
 
-The simulation demonstrates the impact of a malicious client on global model accuracy. You can adjust parameters like the scale of poisoning or the number of clients to observe different outcomes.
+The global model’s accuracy may drop due to the malicious client. You can change parameters like the intensity of poisoning or the number of clients to test different scenarios.
 
 ---
 
@@ -101,3 +101,5 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 This project is inspired by the Federated Learning paradigm and explores its challenges in adversarial scenarios.
 ```
+
+
