@@ -22,8 +22,8 @@ This project demonstrates a Federated Learning (FL) framework with the presence 
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/federated-learning-with-poisoning.git
-   cd federated-learning-with-poisoning
+   git clone https://github.com/ambikad04/FL-ModelPoisoning.git 
+   cd FL-ModelPoisoning
    ```
 
 2. Install dependencies:
