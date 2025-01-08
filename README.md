@@ -98,5 +98,5 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 ---
 
 ## Acknowledgments
-
 This project is inspired by Federated Learning, this work explores its challenges with malicious clients.
+
