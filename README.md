@@ -22,8 +22,8 @@ This project shows how Federated Learning (FL) works when there is a malicious c
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ambikad04/FL-ModelPoisoning.git 
-   cd FL-ModelPoisoning
+   git clone https://github.com/ambikad04/ModelPoisoning.git 
+   cd ModelPoisoning
    ```
 
 2. Install dependencies:
@@ -37,7 +37,7 @@ This project shows how Federated Learning (FL) works when there is a malicious c
 
 1. Run the script:
    ```bash
-   python FL-ModelPoisoning.py
+   python ModelPoisoning.py
    ```
 
 2. Customize parameters:
